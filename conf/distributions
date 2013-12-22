@@ -1,0 +1,8 @@
+Origin: apt.rafaelrosafu.info
+Label: apt repository
+Codename: raring
+Architectures: amd64 i386
+Components: main
+Description: Custom packages
+SignWith: yes
+Pull: raring

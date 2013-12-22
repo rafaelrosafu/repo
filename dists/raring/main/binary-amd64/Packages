@@ -1,0 +1,22 @@
+Package: elixir-stable
+Source: elixir
+Version: 0.12.0-1
+Architecture: amd64
+Maintainer: Rafael Rosa <rafaelrosafu@gmail.com>
+Installed-Size: 3211
+Depends: erlang (>= 1:16.b.3)
+Homepage: http://elixir-lang.org/
+Priority: extra
+Section: universe/elixir
+Filename: pool/main/e/elixir/elixir-stable_0.12.0-1_amd64.deb
+Size: 2425648
+SHA256: 8f01465d31b7a28810654bcdcc41ebb8f2ef70c68fe1b6062595514beca2fc19
+SHA1: ca67a106d94627dfa07176c6da224b1d633a64f7
+MD5sum: d251201322f4c9017860b64f8835a47a
+Description: Functional language running on top of the Erlang VM
+ Elixir is a functional, meta-programming aware language
+ built on top of the Erlang VM. It is a dynamic language
+ with flexible syntax and macro support that leverages
+ Erlang's abilities to build concurrent, distributed and
+ fault-tolerant applications with hot code upgrades.
+

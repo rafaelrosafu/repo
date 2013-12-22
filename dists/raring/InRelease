@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: apt.rafaelrosafu.info
+Label: apt repository
+Codename: raring
+Date: Sun, 22 Dec 2013 22:38:12 UTC
+Architectures: amd64 i386
+Components: main
+Description: Custom packages
+MD5Sum:
+ a2726669b530850a894b70f3b433a803 833 main/binary-amd64/Packages
+ 7b9c9126df748c0f2d51fb57e26f7e6d 554 main/binary-amd64/Packages.gz
+ 9d47eb47f3399ff48195435c3d70aa55 117 main/binary-amd64/Release
+ 4feeae74b39b2532573b5238b1a1cce4 831 main/binary-i386/Packages
+ 0eefdce8e7235e5ad0038eb85457b975 553 main/binary-i386/Packages.gz
+ 96db2c206da9d08f9f0033bbc1ddac1f 116 main/binary-i386/Release
+SHA1:
+ 0e6b4d3dd9e3512631ccc3c0055d2a09ce9b171d 833 main/binary-amd64/Packages
+ 4dc44296aa10185fd480b231aed732dbce81f1f7 554 main/binary-amd64/Packages.gz
+ 0fdda420fb9c879a84951e94461b10609dbb2f56 117 main/binary-amd64/Release
+ d25a54d0569b1f4145ea54c25c7227e51e929f0f 831 main/binary-i386/Packages
+ 30318dc7a04a3b953c32094e65d3e4b06837363b 553 main/binary-i386/Packages.gz
+ be1be57ff05cff3ea6416bdbb874785cdb6f4e1c 116 main/binary-i386/Release
+SHA256:
+ e1ee6a05c1c6e27035fe0fea4df5049cf4ff87fc2d59e28d0a33d217d71a6474 833 main/binary-amd64/Packages
+ 24ccfe20d89b40de8c7a71bed5f6dafe97278457766728162823074b5c8b35f6 554 main/binary-amd64/Packages.gz
+ c86f267891241255d27a6d34338e49c15b8ca3c8acd172d4aea42b19a0dac727 117 main/binary-amd64/Release
+ d7b2660cd16211b0c0990a3586b9b7970272ad35aad8e639bc9100fe973f0c93 831 main/binary-i386/Packages
+ 4261ba528a592f28a3ab9779a2b70cd2126626a5e4bac285fc5a65cf1055bf59 553 main/binary-i386/Packages.gz
+ cb7f7e49c9b3f30df4ee5f769d95abd5da9f221576c75aab7613f49036784e72 116 main/binary-i386/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSt2nZAAoJEGFwNvIctCv+unQH/1TLl1T6RpKFZWBO6Rm3E98Z
+moXLJWXos9+JUF9OEHSUKxgwacndvEEtg65KFltX1szCCWUV/gZ3W7/7GZVmcYLc
+wusXYgoagCu8QJ+A7ykZNK6dt0CT/hEB0KtGAoISTOyHcfvjqDbN25MTSzyU/K00
+/3rPU2HhLJmQ/d2UwjyLYNgeqvn78tS5OtUYUfO4x1ZsElHzpTPuYNw0OWvnGjnW
+Iyrt9QkAQp2Lq34qV/c8JhpXwneRRA6nhOVy/nd4091OUpagQRWUzyAkui/7SnR5
+e4foRp4dA86Iw7b3+N7BK1nLCvWTvlI/ymlcLvz7N/Z7w2CIbPLk/wmwdiFFbo0=
+=JQaM
+-----END PGP SIGNATURE-----
