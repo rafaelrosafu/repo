@@ -50,6 +50,7 @@
 <div class="post">
 <h2>Disclaimer</h2>
 <p>I'm hosting some software I packaged myself and making them available for whoever wants to use them. Use them at you own risk, I won't be liable for any issue you might having using them and I can't guarante this repo will be up every time you need it, it's hosted for free on <a href="http://heroku.com" target="_blank">Heroku</a> (Thanks!).</p>
+<p>This wouldn't be possible without the amazing debian packaging tutorial written by magic teacher <a href="http://twitter.com/fnando" target="_blank">Nando Vieira</a>, go check it out (it's in Portuguese): <a href="http://simplesideias.com.br/criando-pacotes-debian-assinados-com-gpg" target="_blank">Criando pacotes Debian assinados com GPG</a>. Valeu camarada :)</p>
 <h2>Setup instructions</h2>
 <p>Before using these packages you need to add this repo to your source list, to do that just follow these instructions:</p>
 <pre>wget -q -O - http://apt.rafaelrosafu.info/rafaelrosafu.key | sudo apt-key add -<br/>echo 'deb http://apt.rafaelrosafu.info/ raring main' | sudo tee /etc/apt/sources.list.d/rafaelrosafu.list<br/>sudo apt-get update</pre>
